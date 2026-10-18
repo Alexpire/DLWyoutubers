@@ -1,1 +1,22 @@
-
+{
+  "top_craft": {
+    "author": "PixelDriver",
+    "title": "UNSTOPPABLE 8x8 TANK WITH TURRET!",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "thumbnail_url": ""
+  },
+  "community_videos": [
+    {
+      "author": "IronMechanic",
+      "title": "How to Build Ultra-Smooth Suspension",
+      "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "thumbnail_url": ""
+    },
+    {
+      "author": "TurboMax",
+      "title": "Mounting Quad V8 Engines on a Buggy",
+      "video_url": "https://youtu.be/dQw4w9WgXcQ",
+      "thumbnail_url": ""
+    }
+  ]
+}
